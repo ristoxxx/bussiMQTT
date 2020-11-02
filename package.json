@@ -1,0 +1,27 @@
+{
+  "name": "bussimqtt",
+  "version": "0.1.0",
+  "description": "bussidataa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ristoxxx/bussiMQTT.git"
+  },
+  "keywords": [
+    "bussi"
+  ],
+  "author": "@evermore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ristoxxx/bussiMQTT/issues"
+  },
+  "homepage": "https://github.com/ristoxxx/bussiMQTT#readme",
+  "dependencies": {
+    "mqtt": "^4.2.4",
+    "node": "^15.0.1"
+  }
+}
